@@ -1,11 +1,16 @@
 # Flask API with JWT Authentication
 
+```bash
+cd workDir
+
+```
+## Create python venv
 python -m venv venv 
 ```bash
 # Shortcut macro created 
 venv 
 ```
-
+## Activate python venv
 source venv/bin/activate
 
 ```bash
