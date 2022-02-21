@@ -16,7 +16,11 @@ deact = for deactivate
 
 Packages installed backup  
 ```bash
+# To list down packages required
 pip freeze > requirements.txt
+
+# To Restore packages
+pip install -r path/to/requirements.txt
 ```
 
 
