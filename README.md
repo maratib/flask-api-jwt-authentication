@@ -9,7 +9,8 @@ Shortcut macro created
 act = for activate
 deact = for deactivate
 
-
+Packages installed backup  
+pip freeze > requirements.txt
 
 
 
